@@ -258,4 +258,3 @@ module.exports = function markmob(mod) {
 		({enabled,markenabled,messager,alerts,Item_ID,Monster_ID,specialMobSearch} = config)
 	}
 }
-
