@@ -4,20 +4,121 @@
 	"markenabled": true,
 	"messager": true,
 	"alerts": true,
-	"Item_ID": 98260,
+	"Item_ID": 88704,
 	"allowAutoEntryRemoval": true,
 	"specialMobSearch": true,
 	"Monster_ID": {
-		"4_5011": "Tempest Kanash",
-		"38_35": "Nyxarras",
-		"57_33": "Betsael",
-		"51_7011": "Linyphi",
-		"10_99": "Divine Reaver",
-		"52_9050": "Yunaras Snaggletooth",
-		"1023_8888888": "Blue Box",
-		"1023_99999997": "Fat Santa",
-		"1023_99999998": "Tiny Santa",
-		"1023_88888888": "Winterron Box"
+		"4_5011": 			"WB - Tempest Kanash",
+		"38_35": 			"WB - Nyxarras",
+		"57_33": 			"WB - Betsael",
+		"51_7011": 			"WB - Linyphi",
+		"10_99": 			"WB - Divine Reaver",
+		"52_9050": 			"WB - Yunaras Snaggletooth",
+		"434_7000": 		"Boss - Ortan",
+		"994_1000": 		"Boss - Cerrus",
+		"777_77730": 		"Boss - Hazard",
+		"1023_8000": 		"Portal - Caiman",
+		"2020_1100": 		"Elite - Supreme Draakon Pursuer",
+		"2020_1101": 		"Elite - Draakon Guard-Captain",
+		"2020_1102": 		"Elite - Supreme Draakon Dominator",
+		"2020_1200": 		"Elite - Naga Priest",
+		"2020_1201": 		"Elite - Naga Knight",
+		"2020_1202": 		"Elite - Naga Executioner",
+		"2020_1300": 		"Elite - Manuk",
+		"2020_1400": 		"Elite - Axcellob",
+		"2020_1500": 		"Elite - Zemces",
+		"2020_1600": 		"Elite - Red-Flecked Crab",
+		"2020_1601": 		"Elite - Thorny Eyestalker",
+		"2020_1700": 		"Elite - Vekes",
+		"2020_5000": 		"Ore Mob - Chase Unit Captain",
+		"2020_5001": 		"Ore Mob - Chase Unit",
+		"2020_5002": 		"Ore Mob - Chase Unit Wagon Guard",
+		"3026_1006": 		"Dungeon - Ice True",
+		"3026_1007": 		"Dungeon - Fire True",
+		"1023_8888888": 	"Event - Blue Box",
+		"22_11": 			"Event - Caiman Box",
+		"22_26": 			"Event - Caiman Box",
+		"1023_99999997": 	"Event - Fat Santa",
+		"1023_99999998": 	"Event - Tiny Santa",
+		"1023_88888888": 	"Event - Winterron Box",
+		
+		"84_1276": 			"Npc - Starc | Kaiator",
+		"72_1276": 			"Npc - Starc | Allemantheia",
+		"63_1276": 			"Npc - Starc | Velika",
+		"183_1276": 		"Npc - Starc | Highwatch",
+		
+		"2_1271": 			"Npc - Arcun | Arcadia",
+		"3_1271": 			"Npc - Arcun | Arcadia",
+		"5_1271": 			"Npc - Arcun | Arcadia",
+		"6_1271": 			"Npc - Arcun | Arcadia",
+		"7_1271": 			"Npc - Arcun | Arcadia",
+		
+		"4_1271": 			"Npc - Eteral | Ostgarath",
+		"9_1271": 			"Npc - Eteral | Ostgarath",
+		"10_1271": 			"Npc - Eteral | Ostgarath",
+		"11_1271": 			"Npc - Eteral | Ostgarath",
+		"12_1271": 			"Npc - Eteral | Ostgarath",
+		
+		"13_1271": 			"Npc - Vardung | Island of Dawn",
+		
+		"15_1271": 			"Npc - Foretta | Poporia",
+		"16_1271": 			"Npc - Foretta | Poporia",
+		"17_1271": 			"Npc - Foretta | Poporia",
+		"23_1271": 			"Npc - Foretta | Poporia",
+		
+		"18_1271": 			"Npc - Viadu | Val Aureum",
+		"19_1271": 			"Npc - Viadu | Val Aureum",
+		"21_1271": 			"Npc - Viadu | Val Aureum",
+		"24_1271": 			"Npc - Viadu | Val Aureum",
+		
+		"26_1271": 			"Npc - Ezart | Essenia",
+		"27_1271": 			"Npc - Ezart | Essenia",
+		"28_1271": 			"Npc - Ezart | Essenia",
+		"29_1271": 			"Npc - Ezart | Essenia",
+		"29_1272": 			"Npc - Ezart | Essenia",
+		
+		"30_1271": 			"Npc - Versa | Veritas District",
+		
+		"31_1271": 			"Npc - Storan | Westonia",
+		"32_1271": 			"Npc - Storan | Westonia",
+		"34_1271": 			"Npc - Storan | Westonia",
+		
+		"35_1271": 			"Npc - Viace | Val Elenium",
+		"36_1271": 			"Npc - Viace | Val Elenium",
+		"38_1271": 			"Npc - Viace | Val Elenium",
+		
+		"40_1271": 			"Npc - Vaneva | Val Palrada",
+		"41_1271": 			"Npc - Vaneva | Val Palrada",
+		
+		"45_1271": 			"Npc - Lotica | Val Tirkai",
+		"47_1271": 			"Npc - Lotica | Val Tirkai",
+		
+		"48_1271": 			"Npc - Hecurn | Helkan District",
+		
+		"49_1271": 			"Npc - Locarnum | Val Kaeli",
+		"50_1271": 			"Npc - Locarnum | Val Kaeli",
+		
+		"51_1271": 			"Npc - Loahcun | Lorcada",
+		"52_1271": 			"Npc - Loahcun | Lorcada",
+		
+		"54_1271": 			"Npc - Silvette | Sylvanoth",
+		"55_1271": 			"Npc - Silvette | Sylvanoth",
+		"56_1271": 			"Npc - Silvette | Sylvanoth",
+		"57_1271": 			"Npc - Silvette | Sylvanoth",
+		
+		"63_1278": 			"Npc - Veracun | Velika",
+
+		"72_1278": 			"Npc - Alluman | Allemantheia",
+		
+		"84_1278": 			"Npc - Kaidera | Kaiator",
+		
+		"183_1278": 		"Npc - Varrek | Highwatch",
+		
+		"172_1271": 		"Npc - Varrek | Val Oriyn",
+		"181_1271": 		"Npc - Varrek | Val Oriyn",
+		"182_1271": 		"Npc - Varrek | Val Oriyn",
+		"191_1271": 		"Npc - Varrek | Val Oriyn"
+		
 	},
 	"entriesVersion": "4.3.1"
 }
