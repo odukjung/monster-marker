@@ -1,7 +1,7 @@
 # monster-marker
 A Tera Proxy module that warns you when specific objects(mobs like mongos/blue boxes) are in your VISIBLE vicinity (ie: IN YOUR SIGHT) and puts a marker on them.
 
-#Option.
+##Option.
 - World Boss (old)
 - Boss Filds (new World Boss)
 - Caiman
