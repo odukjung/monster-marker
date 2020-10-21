@@ -207,7 +207,7 @@ module.exports = function markmob(mod) {
 	}
 
 	function markthis(locs,idRef) {
-		mod.send('S_SPAWN_DROPITEM', 8, {
+		mod.send('S_SPAWN_DROPITEM', 9, {
 			gameId: idRef,
 			loc:locs,
 			item: Item_ID, 
